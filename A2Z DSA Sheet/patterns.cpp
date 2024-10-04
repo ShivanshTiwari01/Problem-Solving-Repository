@@ -28,7 +28,6 @@ int pattern3(int n) {
     }
 }
 
-
 int pattern4(int n) {
     for (int i=1; i<=n; i++) {
         for (int j=1; j<=i; j++){
@@ -38,11 +37,21 @@ int pattern4(int n) {
     }
 }
 
+int pattern5(int n) {
+    for (int i=n; i>0; i--) {
+        for (int j=0; j<i; j++){
+            cout << "*";
+        }
+        cout << endl;
+    }
+}
+
+
 int main() {
 
     int n;
     cin >> n;
-    pattern4(n);
+    pattern5(n);
     
     return 0;
 }
