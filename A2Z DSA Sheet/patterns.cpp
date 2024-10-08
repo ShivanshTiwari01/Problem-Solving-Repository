@@ -68,6 +68,7 @@ int pattern7(int n) {
 }
 
 
+
 int main() {
 
     int n;
