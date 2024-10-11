@@ -70,13 +70,15 @@ int pattern7(int n) {
     }    
 }
 
-
+int pattern8(int n) {
+    
+}
 
 int main() {
 
     int n;
     cin >> n;
-    pattern7(n);
+    pattern8(n);
     
     return 0;
 }
