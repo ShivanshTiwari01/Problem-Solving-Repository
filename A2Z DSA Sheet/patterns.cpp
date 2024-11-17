@@ -113,7 +113,9 @@ int pattern9(int n) {
 }
 
 int pattern10(int n) {
-    
+    for(int i=0; i<n; i++){
+        
+    }
 }
 
 
