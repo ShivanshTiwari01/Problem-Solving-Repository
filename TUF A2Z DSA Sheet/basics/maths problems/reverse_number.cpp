@@ -17,4 +17,5 @@ int main() {
     int n;
     cin >> n;
     cout << reverse_number(n);
+    return 0;
 }

@@ -14,4 +14,5 @@ int main() {
     int n;
     cin >> n;
     cout << count_digits(n);
+    return 0;
 }

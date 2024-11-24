@@ -37,4 +37,5 @@ int main() {
     int n;
     cin >> n; 
     cout << "Given no is armstrong: " << check_armstrong(n);
+    return 0;
 }

@@ -18,4 +18,5 @@ int main() {
     int n;
     cin >> n;
     cout << check_palindrome(n);
+    return 0;
 }

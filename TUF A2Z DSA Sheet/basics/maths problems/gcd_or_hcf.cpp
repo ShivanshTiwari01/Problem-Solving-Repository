@@ -15,4 +15,5 @@ int main() {
     int a, b;
     cin >> a >> b;
     cout << "GCD of a and b is: " << findGCD(a, b);
+    return 0;
 }
