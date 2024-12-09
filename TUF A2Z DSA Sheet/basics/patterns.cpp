@@ -1,6 +1,6 @@
 // Striver takeuforward patterns program in same order as given on website - https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int pattern1(int n) {

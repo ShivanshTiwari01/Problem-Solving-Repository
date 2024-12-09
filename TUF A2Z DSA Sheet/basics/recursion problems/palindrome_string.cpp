@@ -1,6 +1,6 @@
 // Program: Check if the given string is palindrome or not.
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 bool palindrome(int i, string& s) {

@@ -1,6 +1,6 @@
 // Program: Find the nth fibonacci number.
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int fibonacci(int n) {

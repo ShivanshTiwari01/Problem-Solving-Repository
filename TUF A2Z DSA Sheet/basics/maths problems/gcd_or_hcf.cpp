@@ -1,6 +1,6 @@
 // Program to find HCF of given numbers.
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int findGCD(int a, int b) {

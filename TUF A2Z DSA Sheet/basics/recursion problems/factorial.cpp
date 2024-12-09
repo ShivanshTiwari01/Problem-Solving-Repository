@@ -1,6 +1,6 @@
 // Program: Find factorial of the given number.
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int fact(int n) {

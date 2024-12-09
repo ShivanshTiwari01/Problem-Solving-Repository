@@ -1,6 +1,7 @@
 // Program: Implementation of Insertion Sort Algorithm.
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
 
 int insertion_sort(vector<int>& arr, int n) {

@@ -1,6 +1,7 @@
 // Program: Print all divisors of a given number.
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
 
 vector<int> find_divisors(int n) {

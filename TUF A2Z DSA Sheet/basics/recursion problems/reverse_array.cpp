@@ -1,6 +1,6 @@
 // Program: Reverse the given array.
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int reverse_array(int arr[], int start, int end) {

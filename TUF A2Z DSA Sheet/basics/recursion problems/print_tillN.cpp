@@ -1,6 +1,6 @@
 // Program: Print till n using recursion.
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 void print_n(int n) {

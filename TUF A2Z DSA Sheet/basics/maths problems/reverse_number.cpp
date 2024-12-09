@@ -1,5 +1,5 @@
 // Reverse the given no and ignore the trailin zeros.
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int reverse_number(int no) {

@@ -1,6 +1,7 @@
 // Program: Implementation of Quick Sort Algorithm.
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
 
 int partition(vector<int> &arr, int low, int high) {

@@ -1,6 +1,7 @@
 // Program: Find frequency of each element in a given array
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <unordered_map>
 using namespace std;
 
 int frequency(int arr[], int n) {

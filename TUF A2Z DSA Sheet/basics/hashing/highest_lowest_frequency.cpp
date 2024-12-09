@@ -1,6 +1,7 @@
 // Program: Find the highest frequency and lowest frequency element in given array.
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <unordered_map>
 using namespace std;
 
 void Frequency(int arr[], int n) {

@@ -1,6 +1,7 @@
 // Program: Program to implement Merge Sort Algorithm.
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
 
 void merge(vector<int> &arr, int low, int mid, int high) {

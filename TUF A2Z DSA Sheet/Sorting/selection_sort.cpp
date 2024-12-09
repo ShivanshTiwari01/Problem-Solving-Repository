@@ -1,6 +1,7 @@
 // Program: Implement the given selection sort.
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
 
 int selection_sort(vector<int>& arr, int n) {

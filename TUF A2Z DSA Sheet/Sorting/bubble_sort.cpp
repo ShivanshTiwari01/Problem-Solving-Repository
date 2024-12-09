@@ -1,6 +1,7 @@
 // Program: Impelementation of Bubble Sort Algorithm
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
 
 int bubble_sort(vector<int>& arr, int n) {

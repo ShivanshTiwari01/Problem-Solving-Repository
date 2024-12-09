@@ -1,7 +1,8 @@
 // Program: Check if the given number is Armstrong or not. 
 // Armstrong numbers are the numbers whose sum of cubes of each digit is equal to the number itself eg 153 and 1634.
 
-# include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
 
 int power(int x, unsigned int y)

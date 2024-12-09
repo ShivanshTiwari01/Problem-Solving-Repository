@@ -1,6 +1,6 @@
 // Program: Check if the given no is prime or not.
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int check_prime(int n) {

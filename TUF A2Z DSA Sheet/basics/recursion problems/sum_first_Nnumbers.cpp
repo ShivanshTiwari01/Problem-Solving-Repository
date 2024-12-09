@@ -1,6 +1,6 @@
 // Program: Find sum of first n numbers.
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int sumN(int sum, int n) {
