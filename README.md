@@ -1,10 +1,10 @@
 # Practice Problems Repository
 
-Welcome to my practice problems repository! Here, I share unique coding problems I've solved across various platforms, along with Go implementations of common data structures and algorithms (DSA).
+Welcome to my practice problems repository! Here, I share important coding problems along with Go implementations of common data structures and algorithms (DSA).
 
 ## About
 
-This repository is a collection of practice problems I've encountered during my coding journey. I've carefully selected unique problems to help others improve their problem-solving skills. Originally implemented in C++, this repository has been migrated to Go for simplicity, and modern development practices.
+This repository is a collection of important algorithms I've encountered during my coding journey. I've carefully selected unique problems to help others improve their problem-solving skills. Originally implemented in C++, this repository has been migrated to Go for simplicity, and modern development practices.
 
 ## Data Structures and Algorithms
 
@@ -27,8 +27,6 @@ This repository is a collection of practice problems I've encountered during my 
 DSA Implementation/
 ├── Go implementation of all important Data Structures and Algorithms
 
-TUF A2Z DSA Sheet/
-└── Go implementations TUF DSA A2Z Sheet
 ```
 
 ## Running the Code
